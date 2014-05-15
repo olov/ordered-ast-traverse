@@ -1,6 +1,6 @@
 {
   "name": "ordered-ast-traverse",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "simple but flexible lexically ordered AST traversal with pre and post visitors",
   "main": "ordered-ast-traverse.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "https://github.com/olov/ordered-ast-traverse.git"
   },
   "dependencies": {
-    "ordered-esprima-props": "^1.0.0"
+    "ordered-esprima-props": "~1.0.0"
   },
   "keywords": [
     "ast",
